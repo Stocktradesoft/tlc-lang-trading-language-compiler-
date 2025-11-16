@@ -21,7 +21,7 @@ Most trading systems are built by forcing logic into:
 - Pandas pipelines
 - Excel formulas
 - Backtesting frameworks
-- Pine Script (locked to TradingView)
+- Pine Script 
 
 **TLC goes deeper** — it gives you:
 
